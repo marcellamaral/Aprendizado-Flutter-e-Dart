@@ -1,4 +1,16 @@
-Nesse projeto realizei teste de Local Notifications e o uso do FlutterFire para configurar automaticamente o Firebase no meu projeto. </br>
-<br>
-Image: <br>
-![gif1](https://user-images.githubusercontent.com/80132268/170552579-53216cb2-8711-421a-a4b1-465ec28ba90b.gif)
+# teste_firebase_instalacao_automatica
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
