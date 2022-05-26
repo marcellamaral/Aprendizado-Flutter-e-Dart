@@ -1,6 +1,6 @@
 # Aprendizado-Flutter-e-Dart
 Aqui estarei colocando alguns projetos de aprendizado, referentes aos meus estudos.
-<br>
+<br> <br>
 Consumo de API's <br>
 Clean Code <br>
 Firebase <br>
