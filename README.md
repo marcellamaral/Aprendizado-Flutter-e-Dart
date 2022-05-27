@@ -15,4 +15,4 @@ Aqui estarei colocando alguns projetos de aprendizado, referentes aos meus estud
 • Push Notifications com Firebase <br>
 
 <br><br><br>
-***Repositório ainda em construção! Serão adicionadas imagens de cada aplicativo***
+***Repositório ainda em construção! Serão adicionadas as imagens de cada projeto***
