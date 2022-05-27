@@ -13,3 +13,6 @@ Aqui estarei colocando alguns projetos de aprendizado, referentes aos meus estud
 • Splash Screens <br>
 • Local Notifications <br>
 • Push Notifications com Firebase <br>
+
+<br><br><br>
+**Repositório ainda em construção! Serão adicionadas imagens de cada aplicativo**
